@@ -12,6 +12,8 @@ I am currently a PhD Student at Computer Vision Lab, [Shanghai Jiao Tong Univers
 - Depth Map/Super Resolution
 - ...
 
+[![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralchen)](https://github.com/neuralchen/github-readme-stats)
+
 :rocket:  **News**
 
 - 2021-12-10: One paper ([Bivolution](https://github.com/neuralchen/Bivolution)) accepted by AAAI2022. :heart_eyes:
