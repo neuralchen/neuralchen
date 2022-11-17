@@ -17,7 +17,7 @@ I am currently a PhD Student at Computer Vision Lab, [Shanghai Jiao Tong Univers
 :rocket:  **News**
 
 - 2022-09-15: One paper ([RainNet](https://github.com/neuralchen/RainNet)) accepted by NeurIPS 2022. :heart_eyes:
-- 2022-06-29: One paper ([Im2Oil](https://github.com/TZYSJTU/Im2Oil))) accepted by ACM MM 2022 (oral). :heart_eyes:
+- 2022-06-29: One paper ([Im2Oil](https://github.com/TZYSJTU/Im2Oil))) accepted by ACM MM 2022 (Top Paper Award 0.5%). :heart_eyes:
 - 2021-12-10: One paper ([Bivolution](https://github.com/neuralchen/Bivolution)) accepted by AAAI2022. :heart_eyes:
 
 
