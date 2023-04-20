@@ -16,6 +16,7 @@ I am currently a Ph.D. Student at Computer Vision Lab, [Shanghai Jiao Tong Unive
 
 :rocket:  **News**
 
+- 2023-04-19: The code of [OmniSR](https://github.com/Francis0625/Omni-SR) [[Paper]()] (CVPR2023) is avaliable!
 - 2023-03-24: The code of [EQSR](https://github.com/neuralchen/EQSR) [[Paper]()] (CVPR2023) is avaliable!
 - 2023-03-22: The code of [3DQD](https://github.com/colorful-liyu/3DQD) [[Paper](https://arxiv.org/abs/2303.10406)] (CVPR2023) is avaliable!
 - 2023-02-28: Three papers are accepted by CVPR 2023, codes will be avaliable ASAP. :heart_eyes:
