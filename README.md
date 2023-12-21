@@ -6,10 +6,10 @@
 [Github](https://github.com/neuralchen)
 
 I will become an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.sjtu.edu.cn/en), Shanghai, China. I mainly focus on image/video synthesis/editing and low-level vision research, especially on face attributes editing, such as:
-- image/Face Attributes Editing
-- image/Super Resolution
-- image/Style Transfer
-- Depth Map/Super Resolution
+- Video Face Editing
+- Video Synthesis/Editing
+- MetaHuman
+- Image/Super Resolution
 - ...
 
 [![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralchen)](https://github.com/neuralchen/github-readme-stats)
