@@ -1,4 +1,4 @@
-## Xuanhong Chen [![visitors](https://visitor-badge.glitch.me/badge?page_id=neuralchen)](https://github.com/neuralchen)[![GitHub Followers](https://img.shields.io/github/followers/neuralchen?style=social)](https://github.com/neuralchen)
+## Xuanhong Chen [![GitHub Followers](https://img.shields.io/github/followers/neuralchen?style=social)](https://github.com/neuralchen)
 
 [Email](mailto:chenxuanhongzju@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) /
 [Homepage](https://github.com/neuralchen) /
