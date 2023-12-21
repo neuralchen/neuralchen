@@ -5,7 +5,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=UuCqlfEAAAAJ&hl=en) /
 [Github](https://github.com/neuralchen)
 
-I will become an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.sjtu.edu.cn/en), Shanghai, China. I mainly focus on image synthesis/editing and low-level vision research, especially on face attributes editing, such as:
+I will become an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.sjtu.edu.cn/en), Shanghai, China. I mainly focus on image/video synthesis/editing and low-level vision research, especially on face attributes editing, such as:
 - image/Face Attributes Editing
 - image/Super Resolution
 - image/Style Transfer
