@@ -12,7 +12,7 @@ I'm an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.
 - Image/Super Resolution
 - ...
 
-***We are recruiting full-time engineers. If you are interested, please send an email to my [email](mailto:chen19910528@sjtu.edu.cn?subject=[GitHub]%20Source%20Han%20Sans). Please refer to the website for specific recruitment conditions: [Requirements](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=44f5413a90974114b8f5e643177ef32d)***
+***We are recruiting full-time engineers. If you are interested, please send an [email](mailto:chen19910528@sjtu.edu.cn?subject=[GitHub]%20Source%20Han%20Sans) to my team. Please refer to the website for specific recruitment conditions: [Requirements](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=44f5413a90974114b8f5e643177ef32d)***
 
 [![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralchen)](https://github.com/neuralchen/github-readme-stats)
 
