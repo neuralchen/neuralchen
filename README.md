@@ -5,7 +5,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=UuCqlfEAAAAJ&hl=en) /
 [Github](https://github.com/neuralchen)
 
-I'm an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.sjtu.edu.cn/en), Shanghai, China. I mainly focus on image/video synthesis/editing and low-level vision research, especially on face attributes editing, such as:
+I'm an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.sjtu.edu.cn/en), Shanghai, China. I mainly focus on image/video synthesis/editing, 3D generation and low-level vision research, especially on face attributes editing, such as:
 - Video Face Editing
 - Video Synthesis/Editing
 - MetaHuman
