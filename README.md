@@ -1,6 +1,6 @@
 ## Xuanhong Chen [![GitHub Followers](https://img.shields.io/github/followers/neuralchen?style=social)](https://github.com/neuralchen)
 
-[Email](mailto:chen19910528@sjtu.edu.cn?subject=[GitHub]%20Source%20Han%20Sans) /
+[Email](mailto:chenxuanhong@sjtu.edu.cn?subject=[GitHub]%20Source%20Han%20Sans) /
 [Homepage](https://github.com/neuralchen) /
 [Google Scholar](https://scholar.google.com/citations?user=UuCqlfEAAAAJ&hl=en) /
 [Github](https://github.com/neuralchen)
