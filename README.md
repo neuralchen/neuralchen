@@ -7,9 +7,9 @@
 
 I'm an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.sjtu.edu.cn/en), Shanghai, China. I mainly focus on image/video synthesis/editing, 3D generation and low-level vision research, especially on face attributes editing, such as:
 - AI for Science
-- Video Synthesis/Editing
+- Video Generation
 - 3D Reconstruction/3D Avatar
-- Image/Super Resolution
+- Low-level Vision
 - ...
 
 ***We are recruiting full-time engineers. If you are interested, please send an [email](mailto:chenxuanhong@sjtu.edu.cn?subject=[GitHub]%20Source%20Han%20Sans) to my team. Please refer to the website for specific recruitment conditions: [Requirements](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=44f5413a90974114b8f5e643177ef32d)***
