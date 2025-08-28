@@ -18,6 +18,7 @@ I'm an Assistant Professor at [ICCI Shanghai Jiao Tong University](https://icci.
 
 :rocket:  **News**
 
+- 2025-08-27: The code of [FastAvatar](https://github.com/TyrionWuYue/FastAvatar) [[Paper](https://arxiv.org/abs/2508.19754)] is avaliable!
 - 2024-07-02: One paper accepts by ECCV2024! The code of [TinyBeauty](https://github.com/TinyBeauty/TinyBeauty) [[Paper](https://arxiv.org/abs/2403.15033)] (ECCV2024) is avaliable!
 - 2024-02-27: Two papers are accepted by CVPR2024!
 - 2023-12-12: Two papers are accepted by AAAI2024!
